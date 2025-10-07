@@ -25,6 +25,14 @@ The dashboard was created using **Power BI**, with data sourced from CSV files.
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
 
+## 📂 Project Files
+
+Due to GitHub's file size limitations, the Power BI project file (.pbix) and dataset are hosted on Google Drive.  
+You can access and download all the project files from the link below:
+
+👉 [Download from Google Drive](https://drive.google.com/drive/folders/1vZqiSu_fr7FAQEdWf6d6dUQA8Gf85DS8?usp=sharing)
+
+
 ## 📂 Dataset
 [Kaggle: Kickstarter Projects Dataset](https://www.kaggle.com/datasets/kemical/kickstarter-projects)
 
